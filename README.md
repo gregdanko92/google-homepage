@@ -1,0 +1,1 @@
+this project is part of THE ODIN PROJECT and it is intended to hone my skills with HTML and CSS. 
